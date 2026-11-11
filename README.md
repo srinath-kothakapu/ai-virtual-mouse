@@ -134,6 +134,3 @@ The current version is deliberately limited to displaying hand landmarks. Buildi
 
 The current scripts display a webcam stream and do not implement recording or remote upload. Camera input is sensitive: use only a camera and environment that you are authorized to access, avoid exposing identifiable people in screenshots or recordings, and close the program when it is no longer needed. No cursor control or gesture-triggered system actions are implemented.
 
-## License
-
-There is no `LICENSE` file in this repository at the time of writing. Unless a license is added, do not assume the source is licensed for reuse or redistribution.
